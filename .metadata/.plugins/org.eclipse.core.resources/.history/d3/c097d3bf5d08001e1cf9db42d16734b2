@@ -1,0 +1,15 @@
+/*
+ * Ring_Buffer.c
+ *
+ *  Created on: Jun 11, 2023
+ *      Author: oem
+ */
+
+#include "Ring_buffer.h"
+
+typedef struct
+{
+	uint8_t data[BUFFER_SIE];
+	uint8_t head;
+	uint8_t teil;
+}RingBuff;

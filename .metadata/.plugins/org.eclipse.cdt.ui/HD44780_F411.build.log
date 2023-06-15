@@ -1,0 +1,27 @@
+17:01:14 **** Incremental Build of configuration Debug for project HD44780_F411 ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F411xE -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I"/home/oem/Embedded C/Tatget2/HD44780_F411/LCD44780" -I"/home/oem/Embedded C/Tatget2/HD44780_F411/Ring_buffer" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'HAL_UART_RxCpltCallback':
+../Core/Src/main.c:75:20: warning: passing argument 1 of 'LCD_PrintText' from incompatible pointer type [-Wincompatible-pointer-types]
+   75 |      LCD_PrintText(&LCDdata);
+      |                    ^~~~~~~~
+      |                    |
+      |                    uint8_t (*)[16] {aka unsigned char (*)[16]}
+In file included from ../Core/Src/main.c:32:
+/home/oem/Embedded C/Tatget2/HD44780_F411/LCD44780/LCD44780.h:21:29: note: expected 'uint8_t *' {aka 'unsigned char *'} but argument is of type 'uint8_t (*)[16]' {aka 'unsigned char (*)[16]'}
+   21 | void LCD_PrintText(uint8_t *message);    //Send massage on display
+      |                    ~~~~~~~~~^~~~~~~
+arm-none-eabi-gcc -o "HD44780_F411.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/oem/Embedded C/Tatget2/HD44780_F411/STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="HD44780_F411.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: HD44780_F411.elf
+ 
+arm-none-eabi-size   HD44780_F411.elf 
+arm-none-eabi-objdump -h -S  HD44780_F411.elf  > "HD44780_F411.list"
+   text	   data	    bss	    dec	    hex	filename
+  16132	    120	   1776	  18028	   466c	HD44780_F411.elf
+Finished building: default.size.stdout
+ 
+Finished building: HD44780_F411.list
+ 
+
+17:01:15 Build Finished. 0 errors, 1 warnings. (took 974ms)
+

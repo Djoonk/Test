@@ -1,0 +1,17 @@
+2023-05-25 17:27:12,574 [INFO] Activator:176 - 
+
+
+2023-05-25 17:27:12,580 [INFO] Activator:177 - !SESSION log4j initialized
+2023-05-25 17:27:18,805 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] May 25, 2023 5:27:18 PM org.glassfish.grizzly.http.server.NetworkListener start
+2023-05-25 17:27:18,806 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1596]
+2023-05-25 17:27:18,806 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2023-05-25 17:27:18,807 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] May 25, 2023 5:27:18 PM org.glassfish.grizzly.http.server.HttpServer start
+2023-05-25 17:27:18,808 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-05-25 17:27:18,808 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2023-05-25 17:27:20,915 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-05-25 17:40:49,514 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-25 17:40:49,534 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-25 17:40:49,536 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-25 17:40:49,577 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-25 17:40:49,578 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-25 17:40:49,578 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com

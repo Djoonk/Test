@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMCapture_stm32f103 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TimerCapture_STM32f103 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Test_stm32f411 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_Test_F103 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Encoder_f1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Encoder_Motor_stm32f1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:L293D_28BYJ-48 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Res_stepMotor Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UARTRx_EXO,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART_test,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART_Recive Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LCD1602_DTH11,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LCD_1602 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIM_test Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:bluePill Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:uart3,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:uart3_STM32f103,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:HD44780_F411 Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_Test_F103\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_Test_F103\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Encoder_Motor_stm32f1\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:HD44780_F411\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMCapture_stm32f103\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMCapture_stm32f103\ Debug/activeLaunchTarget=null\:---

@@ -1,0 +1,13 @@
+2023-05-14 07:10:55,729 [INFO] Activator:176 - 
+
+
+2023-05-14 07:10:55,733 [INFO] Activator:177 - !SESSION log4j initialized
+2023-05-14 07:11:00,381 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] May 14, 2023 7:11:00 AM org.glassfish.grizzly.http.server.NetworkListener start
+2023-05-14 07:11:00,382 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1597]
+2023-05-14 07:11:00,383 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2023-05-14 07:11:00,384 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] May 14, 2023 7:11:00 AM org.glassfish.grizzly.http.server.HttpServer start
+2023-05-14 07:11:00,384 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-05-14 07:11:00,384 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2023-05-14 07:11:01,520 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-05-14 07:11:05,827 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-05-14 17:37:25,944 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 

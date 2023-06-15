@@ -1,0 +1,24 @@
+/*
+ * Ring_buffer.h
+ *
+ *  Created on: Jun 11, 2023
+ *      Author: oem
+ */
+#include <main.h>
+
+#ifndef RING_BUFFER_H_
+#define RING_BUFFER_H_
+
+#define BUFFER_SIZE 16
+
+typedef struct
+{
+	uint8_t data[BUFFER_SIZE];
+	uint8_t head;
+	uint8_t tail;
+}RingBuff;
+
+void BufferWrite(RingBuff *buffer, uint8_t data);
+uint8_t BufferRead(RingBuff *buffer);
+
+#endif /* RING_BUFFER_H_ */

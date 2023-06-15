@@ -1,0 +1,14 @@
+2023-06-11 15:08:41,112 [INFO] Activator:176 - 
+
+
+2023-06-11 15:08:41,117 [INFO] Activator:177 - !SESSION log4j initialized
+2023-06-11 15:08:45,726 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 11, 2023 3:08:45 PM org.glassfish.grizzly.http.server.NetworkListener start
+2023-06-11 15:08:45,727 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1597]
+2023-06-11 15:08:45,727 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2023-06-11 15:08:45,727 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Jun 11, 2023 3:08:45 PM org.glassfish.grizzly.http.server.HttpServer start
+2023-06-11 15:08:45,728 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-06-11 15:08:45,728 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2023-06-11 15:08:47,513 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-06-11 15:13:57,141 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_External_tool_project_builders_migration_2 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2023-06-11 15:13:57,142 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_Prompt_before_migrating_3 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2023-06-11 15:13:57,142 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_1 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages

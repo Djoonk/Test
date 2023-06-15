@@ -1,0 +1,2 @@
+../Ring_buffer/Ring_Buffer.c:16:6:BufferWrite	24	static
+../Ring_buffer/Ring_Buffer.c:34:9:BufferRead	24	static

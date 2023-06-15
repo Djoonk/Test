@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Encoder_Motor_stm32f1&apos; to &apos;Stepp_Motor_f103&apos;" description="Rename resource &apos;Encoder_Motor_stm32f1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Encoder_Motor_stm32f1" name="Stepp_Motor_f103" stamp="1682855007751" updateReferences="true"/>
+</session>

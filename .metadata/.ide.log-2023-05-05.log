@@ -1,0 +1,12 @@
+2023-05-05 15:01:02,751 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2023-05-05 16:52:14,985 [INFO] Activator:176 - 
+
+
+2023-05-05 16:52:14,987 [INFO] Activator:177 - !SESSION log4j initialized
+2023-05-05 16:52:19,114 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] May 05, 2023 4:52:19 PM org.glassfish.grizzly.http.server.NetworkListener start
+2023-05-05 16:52:19,115 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] INFO: Started listener bound to [localhost:1595]
+2023-05-05 16:52:19,115 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2023-05-05 16:52:19,117 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] May 05, 2023 4:52:19 PM org.glassfish.grizzly.http.server.HttpServer start
+2023-05-05 16:52:19,117 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] INFO: [HttpServer] Started.
+2023-05-05 16:52:19,117 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2023-05-05 16:52:20,219 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 

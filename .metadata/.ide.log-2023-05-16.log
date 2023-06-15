@@ -1,0 +1,9 @@
+2023-05-16 17:08:24,423 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-05-16 17:08:26,439 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-05-16 17:20:03,846 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-16 17:20:03,848 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-16 17:20:03,849 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-16 17:20:03,904 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-16 17:20:03,904 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-16 17:20:03,905 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-05-16 17:20:46,840 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
